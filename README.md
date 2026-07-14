@@ -1,10 +1,10 @@
-# 🎓 AI-Based Smart Exam Proctoring System
+# AI-Based Smart Exam Proctoring System
 
 An **AI-powered Smart Exam Proctoring System** developed as an **Interdisciplinary Group Project** for the **Artificial Intelligence and Data Science (AI & DS)** course. The system uses **Computer Vision** and **Artificial Intelligence** to monitor online examinations in real time by detecting suspicious activities and generating detailed reports.
 
 ---
 
-## 📌 Project Information
+## Project Information
 
 - **Project Title:** AI-Based Smart Exam Proctoring System
 - **Course:** Artificial Intelligence and Data Science (AI & DS)
@@ -13,7 +13,7 @@ An **AI-powered Smart Exam Proctoring System** developed as an **Interdisciplina
 
 ---
 
-## 👥 Project Team
+## Project Team
 
 This project was developed by an interdisciplinary team consisting of students from **Electronics and Computer Engineering (ER)** and **Computer Science and Engineering (CSE)**.
 
@@ -26,30 +26,30 @@ This project was developed by an interdisciplinary team consisting of students f
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 The AI-Based Smart Exam Proctoring System is designed to automate the invigilation process during online examinations. It continuously monitors candidates through a webcam, detects suspicious activities using Artificial Intelligence and Computer Vision, records violations, captures evidence, and generates analytical reports for examination review.
 
 ---
 
-# ✨ Features
+# Features
 
-- 👤 Student Face Registration
-- ✅ Face Recognition & Identity Verification
-- 📱 Mobile Phone Detection using YOLOv8
-- 👀 Looking Away Detection using MediaPipe FaceMesh
-- 🚶 Student Absence Detection
-- 👥 Multiple Face Detection
-- 🚫 Unknown Person Detection
-- 📷 Automatic Evidence Screenshot Capture
-- 📝 Event Logging (CSV)
-- 📊 Risk Score Calculation
-- 📈 Dashboard Generation
-- 📄 PDF Report Generation
+- Student Face Registration
+- Face Recognition & Identity Verification
+- Mobile Phone Detection using YOLOv8
+- Looking Away Detection using MediaPipe FaceMesh
+- Student Absence Detection
+- Multiple Face Detection
+- Unknown Person Detection
+- Automatic Evidence Screenshot Capture
+- Event Logging (CSV)
+- Risk Score Calculation
+- Dashboard Generation
+- PDF Report Generation
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Python 3.11
 - OpenCV
@@ -63,7 +63,7 @@ The AI-Based Smart Exam Proctoring System is designed to automate the invigilati
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 AI-Exam-Proctoring-System
@@ -88,7 +88,7 @@ AI-Exam-Proctoring-System
 
 ---
 
-# ⚙️ How to Run the Project
+# How to Run the Project
 
 ## Step 1: Clone the Repository
 
@@ -128,19 +128,19 @@ python generate_report.py
 
 ---
 
-# 📊 Output Generated
+# Output Generated
 
 The system automatically generates:
 
-- ✅ Event Log (`logs/events.csv`)
-- ✅ Evidence Images (`evidence/`)
-- ✅ Summary Report (`reports/summary_report.csv`)
-- ✅ Violation Graph (`reports/violation_graph.png`)
-- ✅ PDF Report (`reports/exam_report.pdf`)
+- Event Log (`logs/events.csv`)
+- Evidence Images (`evidence/`)
+- Summary Report (`reports/summary_report.csv`)
+- Violation Graph (`reports/violation_graph.png`)
+- PDF Report (`reports/exam_report.pdf`)
 
 ---
 
-# 🎯 Applications
+# Applications
 
 - Online University Examinations
 - Competitive Examinations
@@ -150,7 +150,7 @@ The system automatically generates:
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Browser Tab Switching Detection
 - Audio Monitoring
@@ -161,7 +161,7 @@ The system automatically generates:
 
 ---
 
-# 📸 Sample Outputs
+# Sample Outputs
 
 The project provides:
 
@@ -177,16 +177,16 @@ The project provides:
 
 ---
 
-# 🙏 Acknowledgement
+# Acknowledgement
 
 This project was developed as part of the **Artificial Intelligence and Data Science (AI & DS)** course. We sincerely thank our faculty members and institution for their valuable guidance and support throughout the development of this interdisciplinary project.
 
 ---
 
-# 📜 License
+# License
 
 This project is developed **for academic and educational purposes only**.
 
 ---
 
-## ⭐ If you find this project useful, consider giving it a Star on GitHub!
+## If you find this project useful, consider giving it a Star on GitHub!
